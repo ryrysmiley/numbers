@@ -1,8 +1,8 @@
 ## Identifying Information: 
-1. Name: 
-2. Student ID: 
-3. Email: 
-4. Class: 
+1. Name: Ryley Jue
+2. Student ID: 2366889
+3. Email: rjue@chapman.edu
+4. Class: cpsc298
 5. Assignment: numbers 
 
 ## Application Purpose
